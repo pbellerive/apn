@@ -16,7 +16,7 @@
         "illuminate/notifications": "^5.3",
         "illuminate/support": "^5.1|^5.2|^5.3",
         "illuminate/queue": "^5.1|^5.2|^5.3",
-        "zendframework/zendservice-apple-apns": "^1.2"
+        "zendframework/zendservice-apple-apns": "dev-master"
     },
     "require-dev": {
         "mockery/mockery": "^0.9.5",
